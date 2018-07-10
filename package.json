@@ -1,6 +1,6 @@
 {
   "name": "array-combination",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "把数组排列组",
   "main": "index.js",
   "scripts": {
