@@ -36,7 +36,7 @@ let optionList = {
   ],
 };
 
-let res = cartesianProductOf(optionList['姓名'], optionList['年龄'], optionList['其他']);
+let res = arrayCombination(optionList['姓名'], optionList['年龄'], optionList['其他']);
 console.log(res);
 
 // 输出 =>
