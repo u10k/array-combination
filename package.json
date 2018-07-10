@@ -1,0 +1,20 @@
+{
+  "name": "array-combination",
+  "version": "1.0.0",
+  "description": "把数组排列组",
+  "main": "index.js",
+  "scripts": {
+    "test": "test run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://\u001b[D\u001b[D\u001b[Ds\u001b[C\u001b[C\u001b[D\u001b://github.com/dearzoe/array-combination"
+  },
+  "keywords": [
+    "array",
+    "combination",
+    "array-combination"
+  ],
+  "author": "dearzoe",
+  "license": "ISC"
+}
