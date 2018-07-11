@@ -5,8 +5,7 @@
 All the possibilities of a free combinatorial array
 
 
-<a href="https://www.npmjs.com/package/array-combination"><img src="https://img.shields.io/npm/v/array-combination.svg?style=flat-square"></a>
-<a href="https://www.npmjs.com/package/array-combination"><img src="https://img.shields.io/npm/dm/array-combination.svg?style=flat-square"></a>
+<a href="https://www.npmjs.com/package/array-combination" target="_blank" rel="external"><img src="https://img.shields.io/npm/v/array-combination.svg" style="width: auto; height: auto"></a><a href="https://www.npmjs.com/package/array-combination"><img src="https://img.shields.io/npm/dm/array-combination.svg" style="width: auto; height: auto"></a>
 
 
 ### install
